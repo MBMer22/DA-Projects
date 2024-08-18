@@ -1,3 +1,5 @@
-Made my first Excel project that uses some basic and advanced data cleaning techniques,
-along with some pivot tables and charts for visualization. Used functions such as XLOOKUP and SUM to assist
-with the analysis.
+I am a Non-Destructive Testing (NDT) professional with 5 years of experience as a Level 2 technician in multiple disciplines, including Radiographic Testing (RT), Magnetic Particle Testing (MT), and Penetrant Testing (PT). I am currently transitioning into the field of data analytics, driven by a passion for uncovering actionable insights through data.
+
+I am actively expanding my knowledge by completing the Google Data Analytics course, gaining hands-on experience with SQL, R, and Tableau. My journey into data analytics is guided by a commitment to continuous learning and growth, as well as a desire to bridge the gap between technical expertise and data-driven decision-making.
+
+This repository will serve as a showcase of the various case studies and projects I am working on as I transition into the field. The analysis in this repository will span multiple industries, with a focus on applying data analytics to solve real-world problems. From business intelligence to marketing analytics and beyond, these case studies reflect my ongoing learning and the practical application of data-driven methodologies.
